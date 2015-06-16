@@ -1,0 +1,22 @@
+# Site navigation links
+
+- title: About
+  url: /about/
+
+- title: Articles
+  url: /articles/
+
+- title: Blog
+  url: /blog/
+  
+- title: Blog Deutsch
+  url: /blog-de/
+  
+- title: Blog Viet
+  url: /blog-vn/
+  
+#- title: Outgoing Site
+  #url: http://www.google.de
+
+- title: Search
+  url: /search/
